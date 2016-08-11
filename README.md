@@ -1,2 +1,4 @@
 # CollectionViewDemoWithHorziDispaly
 CollectionViewCell
+CollectionViewCell需要横排显示.而系统只提供了竖排的默认排列方式
+
